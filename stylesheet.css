@@ -41,3 +41,7 @@ body {
   .contens-item{
       float:left;
   }
+
+  .section-title{
+      text-align:center;
+  }
