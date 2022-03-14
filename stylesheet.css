@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: "Verdana";
+    font-family: "Verdana", "Montserrat";
   }
   
   a {
@@ -39,9 +39,6 @@ body {
       padding: 0 0 100px 0;
   }
 
-  .img{
-      width:100%;
-
   .contents-item{
       position: relative;
       width:25%;
@@ -53,7 +50,6 @@ body {
   }
 
   .section-title h3{
-      font:Montserrat;
       font-size:24px;
   }
 
