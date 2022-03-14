@@ -41,6 +41,7 @@ body {
 
   .contents-item{
       position: relative;
+      width:25%;
       float:left;
   }
 
