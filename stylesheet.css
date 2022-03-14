@@ -15,7 +15,7 @@ body {
 
   .top-wrapper {
     padding: 180px 0 100px 0;
-    background-image: url("/assets/bali.jpg");
+    background-image: url("assets/bali.jpg");
     background-size: cover;
     color: #fff;
     text-align: center;
