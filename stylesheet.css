@@ -46,3 +46,7 @@ body {
   .section-title{
       text-align:center;
   }
+
+  .contents-item p{
+      text-align:center;
+  }
