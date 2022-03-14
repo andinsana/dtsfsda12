@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    
+    font-family: "Verdana";
   }
   
   a {
@@ -23,16 +23,6 @@ body {
   }
   
   .top-wrapper h1 {
-    font-family: "Verdana";
-    font-color: #dff9fb;
-    opacity: 0.7;
-    font-size: 45px;
-    letter-spacing: 5px;
-    margin-bottom: 10px;
-  }
-
-   .top-wrapper h2 {
-    font-family:"Kaushan Script";
     font-color: #dff9fb;
     opacity: 0.7;
     font-size: 45px;
@@ -53,7 +43,7 @@ body {
       position: relative;
       width:25%;
       float:left;
-      margin:40px;
+      margin:20px;
   }
 
   .section-title{
