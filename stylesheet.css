@@ -14,7 +14,8 @@ body {
   }
 
   .top-wrapper {
-    background-color: #e17055;
+    background-img: url("/assets/bali.jpg");
+    background:cover;
     color: #fff;
     height: 90px;
     text-align: center;
