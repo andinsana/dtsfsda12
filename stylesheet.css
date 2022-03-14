@@ -50,6 +50,11 @@ body {
       text-align:center;
   }
 
+  .section-title h3{
+      font:Montserrat;
+      font-size:24px;
+  }
+
   .contents-item p{
       position: absolute;
       text-align:center;
