@@ -14,14 +14,14 @@ body {
   }
 
   .top-wrapper {
-    background-color: #26d0c9;
+    background-color: #e17055;
     color: #fff;
     height: 90px;
     text-align: center;
   }
   
   .top-wrapper h1 {
-    font-color: #e17055;
+    font-color: #26d0c9;
     opacity: 0.7;
     font-size: 45px;
     letter-spacing: 5px;
