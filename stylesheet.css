@@ -39,7 +39,8 @@ body {
       padding: 0 0 100px 0;
   }
 
-  .contens-item{
+  .contents-item{
+      position: relative;
       float:left;
   }
 
@@ -48,6 +49,7 @@ body {
   }
 
   .contents-item p{
+      position: absolute;
       text-align:center;
       width:100%;
   }
