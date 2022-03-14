@@ -19,6 +19,7 @@ body {
     background-size: cover;
     color: #e17055;
     text-align: center;
+    float: left;
   }
   
   .top-wrapper h1 {
