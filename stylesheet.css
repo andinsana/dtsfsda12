@@ -14,11 +14,10 @@ body {
   }
 
   .top-wrapper {
-    padding: 180px 0 100px 0;
-    color: #74b9ff;
-    background-size: cover;
+    background-color: #26d0c9;
+    color: #fff;
+    height: 90px;
     text-align: center;
-    float: left;
   }
   
   .top-wrapper h1 {
